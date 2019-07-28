@@ -1,4 +1,3 @@
-# youyou475_Python-Project_Public
-Some interesting projects.
-
-Only for test.
+EN Version
+NumberGuessingGame
+Last Update Time:2019.07.28
