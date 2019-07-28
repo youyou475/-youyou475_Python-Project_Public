@@ -1,4 +1,4 @@
-EN Version
+English Version
 
 Number Guessing Game
 
