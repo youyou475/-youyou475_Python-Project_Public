@@ -1,5 +1,5 @@
+# NumberGuessingGame
+
 English Version
 
-Number Guessing Game
-
-Last Update Time:2019.07.28
+Last Update Time:2019.08.22
